@@ -1,7 +1,7 @@
 ## 🧠 About Me:
 - 👋 Hi! I DevEyron...
 - 🌐 Aspiring Full Stack Web Developer
-- 🏫 A student from Mariano Marcos State University  
+- 🏫 A Student from Mariano Marcos State University  
 - 👨‍🎓 Taking a Bachelor's Degree in Information Technology  
 
 
