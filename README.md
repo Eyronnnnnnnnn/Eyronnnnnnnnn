@@ -7,26 +7,27 @@
   </a>
 </p>
 
+---
+
 ## 📌 About Me
-- I'm focused on learning and shipping practical projects — from web front-ends to small Java GUI apps. I frequently work on practice exercises and deploy small apps (see the Orbit.app deployment). I keep things concise, iterate quickly, and enjoy exploring new tools and workflows.
+- Focused on building practical projects — from web front‑ends to small Java GUI apps.  
+- Iterates quickly, keeps things concise, and enjoys exploring new tools and workflows.  
 - Currently working on:
-  - Improving my web projects and deployments (Orbit.app)
-  - Practicing HTML/CSS/JavaScript fundamentals and Java GUI with Swing
-- If you'd like to collaborate or give feedback, open an issue on a repo or reach out via GitHub. ✉️
+  - Improving web projects and deployments (Orbit.app)  
+  - Practicing HTML/CSS/JavaScript fundamentals and Java GUI with Swing  
+- Open to collaboration and feedback — reach out via GitHub issues or email ✉️  
+
+---
 
 ## 🧠 My Focus Areas
-- FULL STACK WEB DEVELOPER
-- AI ENGINEER | GENERATIVE AI
+- **Full Stack Web Development**  
+- **AI Engineering | Generative AI**
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Eyronnnnnnnnn">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eyronnnnnnnnn&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Eyronnnnnnnnn's GitHub Stats" />
-  </a>
-</p>
+---
 
+## 📊 GitHub Stats & Achievements
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eyronnnnnnnnn&theme=dark&hide_border=true&border_radius=10" alt="Eyronnnnnnnnn's GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eyronnnnnnnnn&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Eyronnnnnnnnn's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -36,6 +37,8 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Eyronnnnnnnnn&theme=react-dark&radius=10" alt="Eyronnnnnnnnn's Activity Graph" />
 </p>
+
+---
 
 ## 🛠️ Languages & Tools
 
@@ -86,7 +89,8 @@
 </p>
 
 ![Top language](https://stats.pphat.top/languages?username=Eyronnnnnnnnn)
-<br/>
+
+---
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -98,8 +102,10 @@
   </a>
 </p>
 
+---
+
 ## 💬 Quote
-> NO PAIN NO GAIN
+> **NO PAIN NO GAIN**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
