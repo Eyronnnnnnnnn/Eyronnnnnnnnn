@@ -1,113 +1,114 @@
-## Hi there! 👋
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Aaron D Guillermo</h1>
+<h3 align="center">ASPRING FULL STACK WEB DEVELOPER | AI ENGINEER</h3>
 
-### Hi there! 👋
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Eyronnnnnnnnn">
+    <img src="https://komarev.com/ghpvc/?username=Eyronnnnnnnnn&label=Profile%20views&color=00FFFF&style=flat-square" alt="Eyronnnnnnnnn's profile views" />
+  </a>
+</p>
 
-I'm **EYRON** (GitHub: `@Eyronnnnnnnnn`) — a software developer and curious learner building small apps and front-end experiences. 🚀
-
-Tagline: Crafting simple, useful projects while leveling up my JavaScript and Java skills. 💡
-
-## About Me
-
-### About Me
-
-- Name: **EYRON**
-- GitHub: [Eyronnnnnnnnn](https://github.com/Eyronnnnnnnnn)
-- Joined GitHub: **August 2024**
-- Location / Company: Not specified
-
-I'm focused on learning and shipping practical projects — from web front-ends to small Java GUI apps. I frequently work on practice exercises and deploy small apps (see the Orbit.app deployment). I keep things concise, iterate quickly, and enjoy exploring new tools and workflows.
-
-Currently working on:
+## 📌 About Me
+- I'm focused on learning and shipping practical projects — from web front-ends to small Java GUI apps. I frequently work on practice exercises and deploy small apps (see the Orbit.app deployment). I keep things concise, iterate quickly, and enjoy exploring new tools and workflows.
+- Currently working on:
 - Improving my web projects and deployments (Orbit.app)
 - Practicing HTML/CSS/JavaScript fundamentals and Java GUI with Swing
+- If you'd like to collaborate or give feedback, open an issue on a repo or reach out via GitHub. ✉️
 
-If you'd like to collaborate or give feedback, open an issue on a repo or reach out via GitHub. ✉️
 
-## Skills & Technologies
+## 🧠 My Focus Areas
+- FULL STACK WEB DEVELOPER
+- AI ENGINEER | GENERATIVE AI
 
-html,js,java,css,git,github,vercel,nodejs,npm,react.js
 
-## Top Projects
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Eyronnnnnnnnn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eyronnnnnnnnn&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Eyronnnnnnnnn's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Eyronnnnnnnnn&theme=dark&hide_border=true&cache_seconds=86400" alt="Eyronnnnnnnnn's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Eyronnnnnnnnn&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aaron D Guillermo's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Eyronnnnnnnnn&theme=dark&radius=10" alt="Eyronnnnnnnnn's Activity Graph" />
+</p>
 
-### Top Projects
 
-1. [Orbit.app](https://github.com/Eyronnnnnnnnn/Orbit.app) 🌐
-   - Description: Deployed web app (frontend) — homepage: https://orbit-app-eta-seven.vercel.app
-   - Stars: 0 • Forks: 0 • Language: JavaScript
-   - Last updated: 2026-07-28
+## 🛠️ Languages & Tools
 
-2. [practices](https://github.com/Eyronnnnnnnnn/practices) 🛠️
-   - Description: Collection of practice exercises and demos (HTML-focused)
-   - Stars: 0 • Forks: 0 • Language: HTML
-   - Active development: frequent pushes in Aug 2026
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
-3. [Jollibed](https://github.com/Eyronnnnnnnnn/Jollibed) ☕
-   - Description: Java Swing GUI food-ordering system — calculates totals and handles checkout. Great for Java beginners.
-   - Stars: 0 • Forks: 0 • Language: Java
-   - Last updated: 2025-06-24
+</p>
 
-4. [SimpleWebSuyo](https://github.com/Eyronnnnnnnnn/SimpleWebSuyo) ❤️
-   - Description: Small HTML site (fun/personal project)
-   - Stars: 1 • Forks: 0 • Language: HTML
-   - GitHub Pages: enabled
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
 
-5. [FINAL-PROJECT](https://github.com/Eyronnnnnnnnn/FINAL-PROJECT) 🎓
-   - Description: Capstone / final project (JavaScript)
-   - Stars: 0 • Forks: 0 • Language: JavaScript
+</p>
 
-> Note: Repositories are listed from active & notable projects in the account (deployed apps, active work, and projects with stars).
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
 
-## GitHub Stats
+</p>
 
-### GitHub Stats 📊
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 
-- Public repositories: **9**
-- Followers: **1**
-- Following: **1**
+</p>
 
-Badges & cards:
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
 
-- ![Repos](https://img.shields.io/badge/public%20repos-9-blue) ![Followers](https://img.shields.io/badge/followers-1-green)
-- GitHub Stats card:
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eyronnnnnnnnn&show_icons=true&theme=default)
-- Top Languages:
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyronnnnnnnnn&layout=compact&theme=default)
+</p>
 
-(These images update automatically.)
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
 
-## Recent Activity
+</p>
 
-### Recent Activity 🔔
+<p align="center">
+  <a href="https://github.com/Eyronnnnnnnnn">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eyronnnnnnnnn&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-Here are the most recent events from the account (latest first):
+![Top language](https://stats.pphat.top/languages?username=Eyronnnnnnnnn)
+<br/>
 
-- Push to [practices](https://github.com/Eyronnnnnnnnn/practices) — 2026-08-06 (master)
-- Push to [practices](https://github.com/Eyronnnnnnnnn/practices) — 2026-08-05 (master)
-- Push to [practices](https://github.com/Eyronnnnnnnnn/practices) — 2026-08-05 (master)
-- Push to [practices](https://github.com/Eyronnnnnnnnn/practices) — 2026-08-03 (master)
-- Push to [practices](https://github.com/Eyronnnnnnnnn/practices) — 2026-08-03 (master)
-- Push to [practices](https://github.com/Eyronnnnnnnnn/practices) — 2026-08-01 (master)
-- Push to [practices](https://github.com/Eyronnnnnnnnn/practices) — 2026-08-01 (master)
-- Created branch `master` on [practices](https://github.com/Eyronnnnnnnnn/practices) — 2026-08-01
-- Push to [Orbit.app](https://github.com/Eyronnnnnnnnn/Orbit.app) — 2026-07-28 (main)
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://wa.me/639485217546">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:aaronguillermo.dev@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
-You can view more activity on the profile: https://github.com/Eyronnnnnnnnn
+## 💬 Quote
+> NO PAIN NO GAIN
 
-## Latest Blog Posts
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
-### Latest Blog Posts 📝
-
-No personal blog posts or external articles were found on the profile (no blog URL provided).
-
-If you publish articles or a blog, link it in your profile and I'll list them here. In the meantime, check out project READMEs for detailed notes and examples.
-
-## Connect with Me
-
-### Connect with Me 🔗
-
-- 🐙 GitHub: [Eyronnnnnnnnn](https://github.com/Eyronnnnnnnnn)
-- 🌐 Project / demo (example): [Orbit.app](https://orbit-app-eta-seven.vercel.app)
-
-Social accounts not listed on the profile (Twitter / LinkedIn not provided). If you'd like to connect on other platforms, add them to your GitHub profile and I'll include them here.
-
-Thanks for stopping by — feel free to open issues, suggest improvements, or star a repo. ⭐
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
