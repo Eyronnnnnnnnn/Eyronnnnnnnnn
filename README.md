@@ -2,10 +2,9 @@ h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-
 <h3 align="center">ASPRING FULL STACK WEB DEVELOPER | AI ENGINEER</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Eyronnnnnnnnn">
-    <img src="https://komarev.com/ghpvc/?username=Eyronnnnnnnnn&label=Profile%20views&color=00FFFF&style=flat-square" alt="Eyronnnnnnnnn's profile views" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eyronnnnnnnnn&theme=dark&hide_border=true&border_radius=10" alt="Eyronnnnnnnnn's GitHub Streak" />
 </p>
+
 
 ## 📌 About Me
 - I'm focused on learning and shipping practical projects — from web front-ends to small Java GUI apps. I frequently work on practice exercises and deploy small apps (see the Orbit.app deployment). I keep things concise, iterate quickly, and enjoy exploring new tools and workflows.
