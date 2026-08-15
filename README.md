@@ -8,14 +8,11 @@
 </p>
 
 ---
-
 ## 📌 About Me
-- Focused on building practical projects — from web front‑ends to small Java GUI apps.  
-- Iterates quickly, keeps things concise, and enjoys exploring new tools and workflows.  
-- Currently working on:
-  - Improving web projects and deployments (Orbit.app)  
-  - Practicing HTML/CSS/JavaScript fundamentals and Java GUI with Swing  
-- Open to collaboration and feedback — reach out via GitHub issues or email ✉️  
+- 30-day JavaScript fundamentals journey — building daily, one concept at a time
+- Currently deep in async JS: Promises, async/await, and Fetch API
+- Recently built a Dictionary Lookup app using the Free Dictionary API
+- Practicing consistent, hands-on learning over shortcuts
 
 ---
 
