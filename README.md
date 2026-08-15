@@ -25,7 +25,10 @@ h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-
   <a href="https://github.com/Eyronnnnnnnnn">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eyronnnnnnnnn&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Eyronnnnnnnnn's GitHub Stats" />
   </a>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Eyronnnnnnnnn&theme=dark&hide_border=true&border_radius=10" alt="Eyronnnnnnnnn's GitHub Streak" />
+</p>
+
 
 </p>
 <p align="center">
