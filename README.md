@@ -9,10 +9,11 @@
 
 ---
 ## 📌 About Me
-- 30-day JavaScript fundamentals journey — building daily, one concept at a time
-- Currently deep in async JS: Promises, async/await, and Fetch API
-- Recently built a Dictionary Lookup app using the Free Dictionary API
-- Practicing consistent, hands-on learning over shortcuts
+Hi! I’m Aaron Guillermo, a BS Information Technology student (3A) at Mariano Marcos State University (MMSU). I’m an aspiring Full-Stack Web Developer with a growing interest in Generative AI.
+
+I enjoy building web applications, learning new technologies, and turning ideas into functional and user-friendly systems. I’m currently developing my skills in JavaScript, HTML, CSS, APIs, React, Node.js, databases, and AI integration.
+
+My goal is to become a skilled Full-Stack Developer and Generative AI Developer, continuously improving through hands-on projects, self-study, and real-world experience.
 
 ---
 
